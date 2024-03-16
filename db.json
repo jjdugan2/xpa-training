@@ -1,0 +1,22 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Daily Feed",
+      "slug": "daily-feed",
+      "img-background": ""
+    },
+    {
+      "id": 2,
+      "name": "72-Hour Kits",
+      "slug": "72-hour-kits",
+      "img-background": ""
+    },
+    {
+      "id": 3,
+      "name": "Alternative Energy",
+      "slug": "alternative-energy",
+      "img-background": ""
+    },
+  ]
+}
